@@ -1,0 +1,22 @@
+.logo{
+    margin-left: 10%;
+}
+
+.btn{
+    margin-right: 100px;
+    justify-items: center;
+}
+
+.nav{
+    background-color: red;
+    justify-items: center;
+}
+
+.arrow{
+    padding-top: 10px;
+}
+
+.das{
+    color: white;
+    text-decoration: none;
+}
